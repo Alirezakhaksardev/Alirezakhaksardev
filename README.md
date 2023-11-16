@@ -1,9 +1,6 @@
 <h1 >🤸‍♂️ Alireza Khaksar</h1>
 <h3 >Front-End Developer (Next.js & React.js)</h3>
 
-### ☎ Connect with me
-[![website](./img/instagram-light.svg)](https://instagram.com/alirezakhaksae.json)
-[![website](./img/instagram-dark.svg)](https://instagram.com/alirezakhaksae.json)
 
 
 ### 🧰 Languages and Tools
@@ -20,4 +17,12 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+
+### ☎ Connect with me
+[![website](./img/instagram-light.svg)](https://instagram.com/alirezakhaksae.json)
+[![website](./img/instagram-dark.svg)](https://instagram.com/alirezakhaksae.json)
 #
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+/>
