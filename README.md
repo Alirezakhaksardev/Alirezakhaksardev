@@ -3,11 +3,11 @@
 
 **<h2 >Front-End Developer (Next.js & React.js)</h2>**
 
-<!-- 
+
 ### ☎ Connect with me
 [![website](./img/instagram-light.svg)](https://instagram.com/alirezakhaksae.json)
 [![website](./img/instagram-dark.svg)](https://instagram.com/alirezakhaksae.json)
--->
+
 
 ### 🧰 Languages and Tools
 
