@@ -1,8 +1,5 @@
-# <h1 >🤸‍♂️ Alireza Khaksar</h1>
-
-
-**<h2 >Front-End Developer (Next.js & React.js)</h2>**
-
+<h1 >🤸‍♂️ Alireza Khaksar</h1>
+<h3 >Front-End Developer (Next.js & React.js)</h3>
 
 ### ☎ Connect with me
 [![website](./img/instagram-light.svg)](https://instagram.com/alirezakhaksae.json)
