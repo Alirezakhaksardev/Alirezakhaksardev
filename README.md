@@ -17,10 +17,11 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-
+<!--
 ### ☎ Connect with me
 [![website](./img/instagram-light.svg)](https://instagram.com/alirezakhaksae.json)
 [![website](./img/instagram-dark.svg)](https://instagram.com/alirezakhaksae.json)
+-->
 #
 
 <img
